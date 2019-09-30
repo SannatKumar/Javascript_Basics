@@ -16,7 +16,22 @@ Variables are case sensitive.
 Can define multiple variable in a single line and separate with commas.
 Best practice is to define each variable in a single line.
 
-If we need variables that remains const then we use const.
+If we need variables that values remains constant then we use const.
+
+We have two different variables types.
+
+1) Primitve types
+
+String
+Number
+Boolean
+Undefined 
+Null
+
+2) Reference types
+
+
+
 
 
 
