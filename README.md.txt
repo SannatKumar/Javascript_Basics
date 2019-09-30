@@ -28,7 +28,26 @@ Boolean
 Undefined 
 Null
 
+In Javascript there are no other kinds of number such as float or integer.
+
 2) Reference types
+
+a) Object
+    Object is same as real life objects.
+    Such as a person has name, address, age, phone Number, genedr and all.
+    These are the properties of an object.
+    Accessing and changing the variables has two ways.
+    Dot notation and Bracket Notation.
+    Usually it is best practice to use Dot Notation but Bracket Notation has its own use cases.
+
+
+Array
+Function
+
+https://www.youtube.com/watch?v=W6NZfCO5SIk
+
+at time 34:35
+
 
 
 
