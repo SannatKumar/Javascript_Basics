@@ -38,15 +38,21 @@ a) Object
     These are the properties of an object.
     Accessing and changing the variables has two ways.
     Dot notation and Bracket Notation.
-    Usually it is best practice to use Dot Notation but Bracket Notation has its own use cases.
+    Usually it is best practice or default choice(cleaner, easier and short to use) to use Dot Notation but Bracket Notation has its own use cases.
 
 
 Array
+Dealing with list of objects.
+An array is a data structure that we use to represent a list of items.
+
+
 Function
+Function are one of the fundamnetal building blocks in javascript. A function is set of statement that perform some task or calculate some values.
 
-https://www.youtube.com/watch?v=W6NZfCO5SIk
+Parameter is what we have at the time of declaration and Argument is the actual value supplied to the Parameter.
 
-at time 34:35
+
+
 
 
 
