@@ -77,6 +77,9 @@ var dogsName = "cashew";
 var thirdLetterOfLastName = dogsName[2];
 
 console.log(thirdLetterOfLastName);
+console.log(dogsName[dogsName.length-1]);
+
+
 
 
 
