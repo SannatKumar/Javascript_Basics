@@ -79,6 +79,18 @@ var thirdLetterOfLastName = dogsName[2];
 console.log(thirdLetterOfLastName);
 console.log(dogsName[dogsName.length-1]);
 
+//function to create the Word Blanks to fill the game
+
+function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
+
+    var result = "The " + myNoun + " was so " + myAdjective +". And it " + myVerb + " so " + myAdverb;
+    console.log(result); 
+    return result;
+  }
+  
+  // Change the words here to test your function
+  wordBlanks("dog", "big", "ran", "quickly");
+
 
 
 
