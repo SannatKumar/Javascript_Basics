@@ -41,6 +41,21 @@ ThirdLine
 myStr ="This is the start." + " This is the end."
 console.log(myStr);
 
+//shorter way of concatenating string
+
+var myStr;
+myStr ="This is the first sentence. "
+myStr +="This is the second sentence."
+console.log(myStr);
+
+//Concatenating string with variable and string itself.
+
+var myName = "Raj Kumar";
+var myStr = "My name is " + myName + " and I am well!";
+console.log(myStr);
+
+
+
 
 
 
