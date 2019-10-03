@@ -71,6 +71,15 @@ lastNameLength = lastName.length;
 
 console.log(lastNameLength);
 
+//Bracket Notation to Find the Nth Character in a String
+//Also Zero based indexing is quite important to remember
+var dogsName = "cashew";
+var thirdLetterOfLastName = dogsName[2];
+
+console.log(thirdLetterOfLastName);
+
+
+
 
 
 
