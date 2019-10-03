@@ -54,6 +54,30 @@ var myName = "Raj Kumar";
 var myStr = "My name is " + myName + " and I am well!";
 console.log(myStr);
 
+//concatenating variables with string literals
+
+var someAdjective = "Fun";
+var myStr = "Learning to code is ";
+myStr += someAdjective;
+console.log(myStr);
+
+//Length of a string
+
+var lastNameLength = 0;
+var lastName = "LoveSeasons";
+
+
+lastNameLength = lastName.length;
+
+console.log(lastNameLength);
+
+
+
+
+
+
+
+
 
 
 
