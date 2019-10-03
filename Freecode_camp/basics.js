@@ -23,5 +23,29 @@ b = a;
 
 console.log(a);
 
+//Escape characters
+
+var myStr='FirstLine\n\t\\SecondLine\nThirdLine';
+
+console.log(myStr);
+
+//Below what the outputlooks like
+/*
+FirstLine
+	\SecondLine
+ThirdLine
+*/
+
+//Concatenate strings
+
+myStr ="This is the start." + " This is the end."
+console.log(myStr);
+
+
+
+
+
+
+
 
 
